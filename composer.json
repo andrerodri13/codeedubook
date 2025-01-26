@@ -7,6 +7,9 @@
             "email": "andre@asrtechdev.com.br"
         }
     ],
+    "require": {
+        "doctrine/dbal": "~2.3"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
