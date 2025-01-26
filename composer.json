@@ -1,0 +1,15 @@
+{
+    "name": "andrerodri13/codeedubook",
+    "description": "",
+    "authors": [
+        {
+            "name": "André S. Rodrigues",
+            "email": "andre@asrtechdev.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CodeEduBook\\": ""
+        }
+    }
+}
